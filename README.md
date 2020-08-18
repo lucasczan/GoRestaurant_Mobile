@@ -1,8 +1,6 @@
 # GoRestaurant_Mobile
-
-<img src="./src/assets/print.png" />
-
 Desafio Gostack 11 utilizando React-Native e Typescript consumindo API REST com métodos CRUD.
+<img src="./src/assets/print.png" />
 
 Intruções:
 
